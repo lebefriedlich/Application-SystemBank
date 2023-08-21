@@ -1,6 +1,8 @@
 # Application-SystemBank
 The bank system application is built using Java GUI technology in NetBeans and supported by the MySQL database.
 
+Database name is system_bank
+
 to create table user_bank
 
     CREATE TABLE `user_bank` (
